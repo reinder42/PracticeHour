@@ -31,6 +31,8 @@ Some ideas about using the Swift code in this repository:
 - [Practice Hour #3 - Optionals](https://www.youtube.com/watch?v=0ggih3QGZAQ)
 - [Practice Hour #4 - Variables & Functions](https://www.youtube.com/watch?v=5y0I9U8nceM)
 - [Practice Hour #5 - Object-Oriented Programming](https://www.youtube.com/watch?v=icDiMClFwJE)
+- - [Practice Hour #6 - Conditionals](https://www.youtube.com/watch?v=uzgl5wOkHgU)
+- - [Practice Hour #5 - FizzBuzz](https://www.youtube.com/watch?v=1eqtpqaw0XM)
 - [See all events](https://learnappmaking.com/live/)
 
 ## Contributing
